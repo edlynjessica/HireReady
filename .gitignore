@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+*.pyc
+hireready.db
+synthetic_students.csv
